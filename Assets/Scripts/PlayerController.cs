@@ -21,30 +21,4 @@ public class PlayerController : MonoBehaviour {
         moveDirection.y -= gravity * Time.deltaTime;
         controller.Move(moveDirection * Time.deltaTime);
     }
-    /* CharacterController controller;
-
-     // Use this for initialization
-     void Start () {
-         transform.position = new Vector3(150, 15, 100);
-         controller = GetComponent<CharacterController>();
-
-     }
-
-     // Update is called once per frame
-     void Update () {
-         if (controller.isGrounded) {
-             if (Input.GetKey("w")) {
-                 controller.Move(new Vector3(0, 0, 3));
-             }
-             if (Input.GetKey("s")) {
-                 controller.Move(new Vector3(0, 0, -3));
-             }
-             if (Input.GetKey("a")) {
-                 controller.Move(new Vector3(-3, 0, 0));
-             }
-             if (Input.GetKey("d")) {
-                 controller.Move(new Vector3(3, 0, 0));
-             }
-         }
-     }*/
-}
+    
