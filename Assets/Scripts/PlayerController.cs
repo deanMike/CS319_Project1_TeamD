@@ -1,12 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-<<<<<<< HEAD
-public class PlayerController : MonoBehaviour
-{
-=======
-public class PlayerController : MonoBehaviour {
->>>>>>> origin/master
+public class PlayerController : MonoBehaviour{
+
     public float speed = 10.0F;
     public float jumpSpeed = 8.0F;
     public float gravity = 20.0F;
@@ -26,8 +22,6 @@ public class PlayerController : MonoBehaviour {
         moveDirection.y -= gravity * Time.deltaTime;
         controller.Move(moveDirection * Time.deltaTime);
     }
-<<<<<<< HEAD
-=======
     /* CharacterController controller;
 
      // Use this for initialization
@@ -54,6 +48,5 @@ public class PlayerController : MonoBehaviour {
              }
          }
      }*/
->>>>>>> origin/master
 }
     
