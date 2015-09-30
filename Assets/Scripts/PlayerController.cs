@@ -3,7 +3,7 @@ using System.Collections;
 
 public class PlayerController : MonoBehaviour{
 
-    public float speed = 17.0F;
+/*    public float speed = 17.0F;
     public float jumpSpeed = 8.0F;
     public float gravity = 20.0F;
     private Vector3 moveDirection = Vector3.zero;
@@ -22,11 +22,12 @@ public class PlayerController : MonoBehaviour{
         moveDirection.y -= gravity * Time.deltaTime;
         controller.Move(moveDirection * Time.deltaTime);
     }
-    /* CharacterController controller;
+  */
+   CharacterController controller;
 
      // Use this for initialization
      void Start () {
-         transform.position = new Vector3(150, 15, 100);
+        // transform.position = new Vector3(150, 15, 100);
          controller = GetComponent<CharacterController>();
 
      }
@@ -47,6 +48,6 @@ public class PlayerController : MonoBehaviour{
                  controller.Move(new Vector3(3, 0, 0));
              }
          }
-     }*/
+     }
 }
     
