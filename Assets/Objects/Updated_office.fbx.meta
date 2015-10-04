@@ -94,6 +94,105 @@ ModelImporter:
     100172: //RootNode
     100174: upperbeam
     100176: upperChair
+    100178: back1
+    100180: back2
+    100182: group1
+    100184: pCube142
+    100186: pCube143
+    100188: pCube144
+    100190: pCube145
+    100192: pCube146
+    100194: pCube147
+    100196: pCube148
+    100198: pCube149
+    100200: pCube150
+    100202: pCube151
+    100204: pCube152
+    100206: pCube153
+    100208: pCube154
+    100210: pCube155
+    100212: pCube156
+    100214: pCube157
+    100216: pCube158
+    100218: pCube159
+    100220: picture_frame1
+    100222: polySurface52
+    100224: polySurface53
+    100226: polySurface54
+    100228: polySurface55
+    100230: polySurface56
+    100232: polySurface57
+    100234: polySurface58
+    100236: polySurface59
+    100238: polySurface60
+    100240: polySurface61
+    100242: polySurface62
+    100244: polySurface63
+    100246: polySurface64
+    100248: polySurface64 1
+    100250: polySurface65
+    100252: polySurface66
+    100254: polySurface67
+    100256: polySurface68
+    100258: polySurface69
+    100260: polySurface70
+    100262: polySurface71
+    100264: polySurface72
+    100266: polySurface73
+    100268: polySurface74
+    100270: polySurface75
+    100272: polySurface76
+    100274: polySurface77
+    100276: polySurface78
+    100278: polySurface79
+    100280: polySurface79 1
+    100282: pPlane2
+    100284: transform168
+    100286: transform169
+    100288: transform170
+    100290: transform171
+    100292: transform172
+    100294: transform173
+    100296: transform174
+    100298: transform175
+    100300: transform176
+    100302: transform177
+    100304: transform178
+    100306: transform179
+    100308: transform180
+    100310: transform181
+    100312: transform182
+    100314: transform183
+    100316: transform184
+    100318: transform185
+    100320: transform186
+    100322: transform187
+    100324: transform188
+    100326: transform189
+    100328: transform190
+    100330: transform191
+    100332: transform192
+    100334: transform193
+    100336: transform194
+    100338: transform195
+    100340: transform196
+    100342: transform197
+    100344: transform198
+    100346: transform199
+    100348: transform200
+    100350: transform201
+    100352: transform202
+    100354: transform203
+    100356: transform204
+    100358: transform205
+    100360: transform206
+    100362: transform207
+    100364: transform208
+    100366: transform209
+    100368: transform210
+    100370: transform211
+    100372: transform212
+    100374: Whole_Phone
     400000: apple_1
     400002: apple_2
     400004: apple_3
@@ -183,6 +282,105 @@ ModelImporter:
     400172: //RootNode
     400174: upperbeam
     400176: upperChair
+    400178: back1
+    400180: back2
+    400182: group1
+    400184: pCube142
+    400186: pCube143
+    400188: pCube144
+    400190: pCube145
+    400192: pCube146
+    400194: pCube147
+    400196: pCube148
+    400198: pCube149
+    400200: pCube150
+    400202: pCube151
+    400204: pCube152
+    400206: pCube153
+    400208: pCube154
+    400210: pCube155
+    400212: pCube156
+    400214: pCube157
+    400216: pCube158
+    400218: pCube159
+    400220: picture_frame1
+    400222: polySurface52
+    400224: polySurface53
+    400226: polySurface54
+    400228: polySurface55
+    400230: polySurface56
+    400232: polySurface57
+    400234: polySurface58
+    400236: polySurface59
+    400238: polySurface60
+    400240: polySurface61
+    400242: polySurface62
+    400244: polySurface63
+    400246: polySurface64
+    400248: polySurface64 1
+    400250: polySurface65
+    400252: polySurface66
+    400254: polySurface67
+    400256: polySurface68
+    400258: polySurface69
+    400260: polySurface70
+    400262: polySurface71
+    400264: polySurface72
+    400266: polySurface73
+    400268: polySurface74
+    400270: polySurface75
+    400272: polySurface76
+    400274: polySurface77
+    400276: polySurface78
+    400278: polySurface79
+    400280: polySurface79 1
+    400282: pPlane2
+    400284: transform168
+    400286: transform169
+    400288: transform170
+    400290: transform171
+    400292: transform172
+    400294: transform173
+    400296: transform174
+    400298: transform175
+    400300: transform176
+    400302: transform177
+    400304: transform178
+    400306: transform179
+    400308: transform180
+    400310: transform181
+    400312: transform182
+    400314: transform183
+    400316: transform184
+    400318: transform185
+    400320: transform186
+    400322: transform187
+    400324: transform188
+    400326: transform189
+    400328: transform190
+    400330: transform191
+    400332: transform192
+    400334: transform193
+    400336: transform194
+    400338: transform195
+    400340: transform196
+    400342: transform197
+    400344: transform198
+    400346: transform199
+    400348: transform200
+    400350: transform201
+    400352: transform202
+    400354: transform203
+    400356: transform204
+    400358: transform205
+    400360: transform206
+    400362: transform207
+    400364: transform208
+    400366: transform209
+    400368: transform210
+    400370: transform211
+    400372: transform212
+    400374: Whole_Phone
     2300000: apple_1
     2300002: apple_2
     2300004: apple_3
@@ -215,6 +413,11 @@ ModelImporter:
     2300058: picture_frame
     2300060: upperbeam
     2300062: upperChair
+    2300064: pCube158
+    2300066: pCube159
+    2300068: picture_frame1
+    2300070: polySurface79
+    2300072: pPlane2
     3300000: apple_1
     3300002: apple_2
     3300004: apple_3
@@ -247,6 +450,11 @@ ModelImporter:
     3300058: picture_frame
     3300060: upperbeam
     3300062: upperChair
+    3300064: pCube158
+    3300066: pCube159
+    3300068: picture_frame1
+    3300070: polySurface79
+    3300072: pPlane2
     4300000: mug
     4300002: LowerChair
     4300004: upperChair
@@ -279,6 +487,11 @@ ModelImporter:
     4300058: apple_5
     4300060: picture_frame
     4300062: Office_desk
+    4300064: polySurface79
+    4300066: pCube158
+    4300068: pCube159
+    4300070: pPlane2
+    4300072: picture_frame1
     9500000: //RootNode
   materials:
     importMaterials: 1

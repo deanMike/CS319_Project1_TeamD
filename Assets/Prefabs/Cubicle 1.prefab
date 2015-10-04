@@ -134,7 +134,7 @@ GameObject:
   - 4: {fileID: 462980}
   - 95: {fileID: 9535536}
   m_Layer: 0
-  m_Name: Cubicle
+  m_Name: Cubicle 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
