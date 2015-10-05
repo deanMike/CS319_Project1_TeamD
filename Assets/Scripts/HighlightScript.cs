@@ -9,7 +9,6 @@ public class HighlightScript : MonoBehaviour
     private Material[] materialArray;
     private bool highlight = true;
 
-
     void OnMouseEnter()
     {
         if (highlight)

@@ -28,4 +28,15 @@ public class AudioManagerScript : MonoBehaviour {
 	void Update () {
 	
 	}
+
+    public void ToggleMusic()
+    {
+        if(music.isPlaying)
+        {
+            music.Stop();
+        } else
+        {
+            music.Play();
+        }
+    }
 }

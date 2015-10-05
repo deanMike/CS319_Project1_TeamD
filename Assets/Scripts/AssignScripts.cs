@@ -2,11 +2,11 @@
 using System.Collections;
 
 public class AssignScripts : MonoBehaviour {
-    GameObject Chair;
+    private GameObject Chair;
+
     // Use this for initialization
     void Start()
-    {
-        // Add highlighter to all interactable objects.
+    {        // Add highlighter to all interactable objects.
         foreach (Transform obj in gameObject.GetComponentsInChildren<Transform>())
         {
             if (obj.gameObject.GetComponent<Collider>())
@@ -14,11 +14,17 @@ public class AssignScripts : MonoBehaviour {
                 obj.gameObject.AddComponent<HighlightScript>();
             }
         }
+        
+        foreach (GameObject obj in GameObject.FindGameObjectsWithTag("NonInteractive"))
+        {
+            Destroy(obj.GetComponent<HighlightScript>());
+        }
 
         // Add chairscript to chair.
         Chair = GameObject.Find("upperChair");
         Chair.AddComponent<ChairSpin>();
-    }
+        AudioSource sound = Chair.AddComponent<AudioSource>();
+        }
 
     // Update is called once per frame
     void Update () {

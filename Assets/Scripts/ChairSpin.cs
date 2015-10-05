@@ -5,17 +5,19 @@ using System;
 public class ChairSpin : MonoBehaviour {
     private bool isRotating = false;
     private float spinTime = 2.0f;
-    private bool soundPlay = false;
-
     private AudioClip[] chairSounds;
-
     void Start()
     {
+        chairSounds = new AudioClip[7];
+        for (int i = 0; i < chairSounds.Length; i++)
+        {
+            chairSounds[i] = GameObject.Find("AudioManager").GetComponent<AudioManagerScript>().audioClipArray[i + 3];
+        }
     }
 
     void OnMouseDown()
     {
-        Debug.Log(transform.rotation.y.ToString());
+        GetComponent<AudioSource>().clip = chairSounds[new System.Random().Next(1,6)];
         GetComponent<AudioSource>().Play();
         isRotating = true;
     }

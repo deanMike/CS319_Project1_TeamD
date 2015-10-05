@@ -193,6 +193,75 @@ ModelImporter:
     100370: transform211
     100372: transform212
     100374: Whole_Phone
+    100376: Chair
+    100378: Cubicle
+    100380: Cubicle1
+    100382: Cubicle2
+    100384: drawer1
+    100386: drawer10
+    100388: drawer11
+    100390: drawer12
+    100392: drawer2
+    100394: drawer3
+    100396: drawer4
+    100398: drawer5
+    100400: drawer6
+    100402: drawer7
+    100404: drawer8
+    100406: drawer9
+    100408: drawers
+    100410: group3
+    100412: polySurface100
+    100414: polySurface107
+    100416: polySurface108
+    100418: polySurface109
+    100420: polySurface110
+    100422: polySurface111
+    100424: polySurface112
+    100426: polySurface113
+    100428: polySurface114
+    100430: polySurface115
+    100432: polySurface116
+    100434: polySurface80
+    100436: polySurface81
+    100438: polySurface82
+    100440: polySurface83
+    100442: polySurface84
+    100444: polySurface85
+    100446: polySurface92
+    100448: polySurface93
+    100450: polySurface94
+    100452: polySurface95
+    100454: polySurface96
+    100456: polySurface97
+    100458: polySurface98
+    100460: polySurface99
+    100462: transform213
+    100464: transform214
+    100466: transform215
+    100468: transform216
+    100470: transform217
+    100472: transform218
+    100474: transform219
+    100476: transform220
+    100478: transform221
+    100480: transform222
+    100482: transform223
+    100484: transform224
+    100486: transform225
+    100488: transform226
+    100490: transform227
+    100492: transform228
+    100494: transform229
+    100496: transform230
+    100498: transform231
+    100500: transform232
+    100502: transform233
+    100504: transform234
+    100506: transform235
+    100508: transform236
+    100510: transform237
+    100512: transform238
     400000: apple_1
     400002: apple_2
     400004: apple_3
@@ -381,6 +450,75 @@ ModelImporter:
     400370: transform211
     400372: transform212
     400374: Whole_Phone
+    400376: Chair
+    400378: Cubicle
+    400380: Cubicle1
+    400382: Cubicle2
+    400384: drawer1
+    400386: drawer10
+    400388: drawer11
+    400390: drawer12
+    400392: drawer2
+    400394: drawer3
+    400396: drawer4
+    400398: drawer5
+    400400: drawer6
+    400402: drawer7
+    400404: drawer8
+    400406: drawer9
+    400408: drawers
+    400410: group3
+    400412: polySurface100
+    400414: polySurface107
+    400416: polySurface108
+    400418: polySurface109
+    400420: polySurface110
+    400422: polySurface111
+    400424: polySurface112
+    400426: polySurface113
+    400428: polySurface114
+    400430: polySurface115
+    400432: polySurface116
+    400434: polySurface80
+    400436: polySurface81
+    400438: polySurface82
+    400440: polySurface83
+    400442: polySurface84
+    400444: polySurface85
+    400446: polySurface92
+    400448: polySurface93
+    400450: polySurface94
+    400452: polySurface95
+    400454: polySurface96
+    400456: polySurface97
+    400458: polySurface98
+    400460: polySurface99
+    400462: transform213
+    400464: transform214
+    400466: transform215
+    400468: transform216
+    400470: transform217
+    400472: transform218
+    400474: transform219
+    400476: transform220
+    400478: transform221
+    400480: transform222
+    400482: transform223
+    400484: transform224
+    400486: transform225
+    400488: transform226
+    400490: transform227
+    400492: transform228
+    400494: transform229
+    400496: transform230
+    400498: transform231
+    400500: transform232
+    400502: transform233
+    400504: transform234
+    400506: transform235
+    400508: transform236
+    400510: transform237
+    400512: transform238
     2300000: apple_1
     2300002: apple_2
     2300004: apple_3
@@ -418,6 +556,21 @@ ModelImporter:
     2300068: picture_frame1
     2300070: polySurface79
     2300072: pPlane2
+    2300074: Cubicle2
+    2300076: drawer1
+    2300078: drawer10
+    2300080: drawer11
+    2300082: drawer12
+    2300084: drawer2
+    2300086: drawer3
+    2300088: drawer4
+    2300090: drawer5
+    2300092: drawer6
+    2300094: drawer7
+    2300096: drawer8
+    2300098: drawer9
+    2300100: polySurface83
+    2300102: polySurface98
     3300000: apple_1
     3300002: apple_2
     3300004: apple_3
@@ -455,6 +608,21 @@ ModelImporter:
     3300068: picture_frame1
     3300070: polySurface79
     3300072: pPlane2
+    3300074: Cubicle2
+    3300076: drawer1
+    3300078: drawer10
+    3300080: drawer11
+    3300082: drawer12
+    3300084: drawer2
+    3300086: drawer3
+    3300088: drawer4
+    3300090: drawer5
+    3300092: drawer6
+    3300094: drawer7
+    3300096: drawer8
+    3300098: drawer9
+    3300100: polySurface83
+    3300102: polySurface98
     4300000: mug
     4300002: LowerChair
     4300004: upperChair
@@ -492,6 +660,72 @@ ModelImporter:
     4300068: pCube159
     4300070: pPlane2
     4300072: picture_frame1
+    4300074: polySurface83
+    4300076: polySurface98
+    4300078: Cubicle2
+    4300080: drawer1
+    4300082: drawer2
+    4300084: drawer3
+    4300086: drawer5
+    4300088: drawer4
+    4300090: drawer6
+    4300092: drawer7
+    4300094: drawer8
+    4300096: drawer9
+    4300098: drawer10
+    4300100: drawer11
+    4300102: drawer12
+    6400000: apple_1
+    6400002: apple_2
+    6400004: apple_3
+    6400006: apple_4
+    6400008: apple_5
+    6400010: backrest1
+    6400012: base
+    6400014: book2
+    6400016: book3
+    6400018: book4
+    6400020: book5
+    6400022: book7
+    6400024: book_1
+    6400026: book_6
+    6400028: bowl
+    6400030: bulb
+    6400032: keyboard
+    6400034: lampshade
+    6400036: lower_beam
+    6400038: LowerChair
+    6400040: monitor
+    6400042: mug
+    6400044: Office_desk
+    6400046: pCube158
+    6400048: pCube159
+    6400050: pencil2
+    6400052: pencil_1
+    6400054: pencil_3
+    6400056: pencil_4
+    6400058: pencil_5
+    6400060: pencil_cup
+    6400062: picture_frame1
+    6400064: polySurface79
+    6400066: pPlane2
+    6400068: upperbeam
+    6400070: upperChair
+    6400072: Cubicle2
+    6400074: drawer1
+    6400076: drawer10
+    6400078: drawer11
+    6400080: drawer12
+    6400082: drawer2
+    6400084: drawer3
+    6400086: drawer4
+    6400088: drawer5
+    6400090: drawer6
+    6400092: drawer7
+    6400094: drawer8
+    6400096: drawer9
+    6400098: polySurface83
+    6400100: polySurface98
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -518,7 +752,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
