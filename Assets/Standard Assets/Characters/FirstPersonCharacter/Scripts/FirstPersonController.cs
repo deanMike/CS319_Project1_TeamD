@@ -42,9 +42,13 @@ namespace UnityStandardAssets.Characters.FirstPerson
         private bool m_Jumping;
         private AudioSource m_AudioSource;
 
+        private GameObject variables;
+
         // Use this for initialization
         private void Start()
         {
+            variables = GameObject.Find("VariableController");
+
             m_CharacterController = GetComponent<CharacterController>();
             m_Camera = Camera.main;
             m_OriginalCameraPosition = m_Camera.transform.localPosition;
@@ -61,7 +65,8 @@ namespace UnityStandardAssets.Characters.FirstPerson
         // Update is called once per frame
         private void Update()
         {
-            RotateView();
+                RotateView();
+            
             // the jump state needs to read here to make sure it is not missed
             if (!m_Jump)
             {

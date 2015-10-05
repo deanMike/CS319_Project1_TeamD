@@ -7,20 +7,24 @@ public class InspectObjectScript : MonoBehaviour {
     private Vector3 cameraPos;
     private bool upClose = false;
     private RaycastHit hit;
-    private Vector3 originalPos;
+    private Transform originalPos;
     public GameObject interact;
+    public VariableControl variables;
 
     // Use this for initialization
     void Start() {
-        FPSCamera = GameObject.Find("FPSController");
+        FPSCamera = GameObject.Find("VariableController");
         cameraPos = FPSCamera.transform.position;
+        variables = FPSCamera.GetComponent<VariableControl>();
     }
 
     // Update is called once per frame
     void Update()
     {
-       
-
+        if (upClose)
+        {
+            transform.Rotate(new Vector3(Input.GetAxis("Mouse Y"), Input.GetAxis("Mouse X"), 0), Time.deltaTime * 300);
+        }
     }
     
     void OnMouseOver()
@@ -33,22 +37,26 @@ public class InspectObjectScript : MonoBehaviour {
                 InspectObject();
             } else
             {
-                Debug.Log("Down");
                 PutDownObject();
             }
         }
+        Debug.Log(gameObject.name);
+
     }
     void InspectObject()
     {
-        originalPos = transform.position;
-        while (!transform.position.Equals(cameraPos))
-        {
-            transform.position = (Vector3.MoveTowards(originalPos, cameraPos, Time.deltaTime));
-        }
         upClose = true;
+        variables.interacting = true;
+        originalPos = transform;
+        transform.position = Camera.main.transform.position + Camera.main.transform.forward;
+        //gameObject.transform.parent = Camera.main.transform;
     }
-    void PutDownObject() {
-        transform.Translate(Vector3.MoveTowards(cameraPos, originalPos, 1.0f));
+    public void PutDownObject() {
         upClose = false;
+        variables.interacting = false;
+        //gameObject.transform.parent = null;
+        transform.Translate(originalPos.position);
+        transform.Rotate(originalPos.rotation.eulerAngles);
+        
     }
 }

@@ -12,12 +12,14 @@ public class AssignScripts : MonoBehaviour {
             if (obj.gameObject.GetComponent<Collider>())
             {
                 obj.gameObject.AddComponent<HighlightScript>();
+                obj.gameObject.AddComponent<InspectObjectScript>();
             }
         }
         
         foreach (GameObject obj in GameObject.FindGameObjectsWithTag("NonInteractive"))
         {
             Destroy(obj.GetComponent<HighlightScript>());
+            Destroy(obj.GetComponent<InspectObjectScript>());
         }
 
         // Add chairscript to chair.
