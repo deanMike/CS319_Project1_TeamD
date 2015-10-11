@@ -262,6 +262,123 @@ ModelImporter:
     100508: transform236
     100510: transform237
     100512: transform238
+    100514: back
+    100516: backrest1 1
+    100518: books
+    100520: drawer1 1
+    100522: drawer13
+    100524: drawer14
+    100526: drawer15
+    100528: drawer16
+    100530: drawer16 1
+    100532: drawers 1
+    100534: lampshade 1
+    100536: mug1
+    100538: palmLeafy19Leaf
+    100540: palmLeafy19Main
+    100542: palmLeafy19MeshGroup
+    100544: pCube160
+    100546: pCube161
+    100548: pCylinder1
+    100550: pCylinder2
+    100552: pCylinder3
+    100554: pCylinder4
+    100556: picture_frame2
+    100558: picture_frame3
+    100560: place3dTexture2
+    100562: place3dTexture4
+    100564: place3dTexture4 1
+    100566: place3dTexture5
+    100568: place3dTexture6
+    100570: place3dTexture6 1
+    100572: place3dTexture6 2
+    100574: plant
+    100576: polySurface117
+    100578: polySurface117 1
+    100580: polySurface118
+    100582: polySurface119
+    100584: polySurface120
+    100586: polySurface121
+    100588: polySurface122
+    100590: polySurface123
+    100592: polySurface124
+    100594: polySurface125
+    100596: polySurface126
+    100598: polySurface127
+    100600: polySurface128
+    100602: polySurface129
+    100604: polySurface130
+    100606: polySurface131
+    100608: polySurface132
+    100610: polySurface133
+    100612: polySurface134
+    100614: polySurface142
+    100616: polySurface143
+    100618: polySurface144
+    100620: polySurface145
+    100622: polySurface146
+    100624: pSphere1
+    100626: pSphere2
+    100628: pSphere3
+    100630: pSphere4
+    100632: pSphere5
+    100634: pSphere6
+    100636: pSphere7
+    100638: teddy_bear
+    100640: teddy_bear1
+    100642: transform239
+    100644: transform240
+    100646: transform241
+    100648: transform242
+    100650: transform243
+    100652: transform244
+    100654: transform245
+    100656: transform246
+    100658: transform247
+    100660: transform248
+    100662: transform249
+    100664: transform250
+    100666: transform251
+    100668: transform252
+    100670: transform253
+    100672: transform254
+    100674: transform255
+    100676: transform256
+    100678: transform257
+    100680: transform258
+    100682: transform259
+    100684: transform260
+    100686: transform261
+    100688: transform262
+    100690: transform263
+    100692: transform264
+    100694: transform265
+    100696: transform266
+    100698: transform267
+    100700: transform268
+    100702: transform269
+    100704: transform270
+    100706: transform271
+    100708: transform272
+    100710: transform273
+    100712: transform274
+    100714: transform275
+    100716: transform276
+    100718: transform277
+    100720: transform278
+    100722: transform279
+    100724: transform280
+    100726: transform296
+    100728: transform297
+    100730: transform298
+    100732: transform299
+    100734: transform300
+    100736: transform301
+    100738: transform302
+    100740: transform303
+    100742: transform304
+    100744: transform305
+    100746: transform306
     400000: apple_1
     400002: apple_2
     400004: apple_3
@@ -519,6 +636,123 @@ ModelImporter:
     400508: transform236
     400510: transform237
     400512: transform238
+    400514: back
+    400516: backrest1 1
+    400518: books
+    400520: drawer1 1
+    400522: drawer13
+    400524: drawer14
+    400526: drawer15
+    400528: drawer16
+    400530: drawer16 1
+    400532: drawers 1
+    400534: lampshade 1
+    400536: mug1
+    400538: palmLeafy19Leaf
+    400540: palmLeafy19Main
+    400542: palmLeafy19MeshGroup
+    400544: pCube160
+    400546: pCube161
+    400548: pCylinder1
+    400550: pCylinder2
+    400552: pCylinder3
+    400554: pCylinder4
+    400556: picture_frame2
+    400558: picture_frame3
+    400560: place3dTexture2
+    400562: place3dTexture4
+    400564: place3dTexture4 1
+    400566: place3dTexture5
+    400568: place3dTexture6
+    400570: place3dTexture6 1
+    400572: place3dTexture6 2
+    400574: plant
+    400576: polySurface117
+    400578: polySurface117 1
+    400580: polySurface118
+    400582: polySurface119
+    400584: polySurface120
+    400586: polySurface121
+    400588: polySurface122
+    400590: polySurface123
+    400592: polySurface124
+    400594: polySurface125
+    400596: polySurface126
+    400598: polySurface127
+    400600: polySurface128
+    400602: polySurface129
+    400604: polySurface130
+    400606: polySurface131
+    400608: polySurface132
+    400610: polySurface133
+    400612: polySurface134
+    400614: polySurface142
+    400616: polySurface143
+    400618: polySurface144
+    400620: polySurface145
+    400622: polySurface146
+    400624: pSphere1
+    400626: pSphere2
+    400628: pSphere3
+    400630: pSphere4
+    400632: pSphere5
+    400634: pSphere6
+    400636: pSphere7
+    400638: teddy_bear
+    400640: teddy_bear1
+    400642: transform239
+    400644: transform240
+    400646: transform241
+    400648: transform242
+    400650: transform243
+    400652: transform244
+    400654: transform245
+    400656: transform246
+    400658: transform247
+    400660: transform248
+    400662: transform249
+    400664: transform250
+    400666: transform251
+    400668: transform252
+    400670: transform253
+    400672: transform254
+    400674: transform255
+    400676: transform256
+    400678: transform257
+    400680: transform258
+    400682: transform259
+    400684: transform260
+    400686: transform261
+    400688: transform262
+    400690: transform263
+    400692: transform264
+    400694: transform265
+    400696: transform266
+    400698: transform267
+    400700: transform268
+    400702: transform269
+    400704: transform270
+    400706: transform271
+    400708: transform272
+    400710: transform273
+    400712: transform274
+    400714: transform275
+    400716: transform276
+    400718: transform277
+    400720: transform278
+    400722: transform279
+    400724: transform280
+    400726: transform296
+    400728: transform297
+    400730: transform298
+    400732: transform299
+    400734: transform300
+    400736: transform301
+    400738: transform302
+    400740: transform303
+    400742: transform304
+    400744: transform305
+    400746: transform306
     2300000: apple_1
     2300002: apple_2
     2300004: apple_3
@@ -571,6 +805,11 @@ ModelImporter:
     2300098: drawer9
     2300100: polySurface83
     2300102: polySurface98
+    2300104: mug1
+    2300106: picture_frame2
+    2300108: picture_frame3
+    2300110: plant
+    2300112: teddy_bear1
     3300000: apple_1
     3300002: apple_2
     3300004: apple_3
@@ -623,6 +862,11 @@ ModelImporter:
     3300098: drawer9
     3300100: polySurface83
     3300102: polySurface98
+    3300104: mug1
+    3300106: picture_frame2
+    3300108: picture_frame3
+    3300110: plant
+    3300112: teddy_bear1
     4300000: mug
     4300002: LowerChair
     4300004: upperChair
@@ -675,6 +919,11 @@ ModelImporter:
     4300098: drawer10
     4300100: drawer11
     4300102: drawer12
+    4300104: teddy_bear1
+    4300106: plant
+    4300108: picture_frame2
+    4300110: picture_frame3
+    4300112: mug1
     6400000: apple_1
     6400002: apple_2
     6400004: apple_3
@@ -726,6 +975,11 @@ ModelImporter:
     6400096: drawer9
     6400098: polySurface83
     6400100: polySurface98
+    6400102: mug1
+    6400104: picture_frame2
+    6400106: picture_frame3
+    6400108: plant
+    6400110: teddy_bear1
     9500000: //RootNode
   materials:
     importMaterials: 1

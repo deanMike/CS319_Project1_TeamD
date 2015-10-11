@@ -525,6 +525,7 @@ GameObject:
   - 4: {fileID: 1454530381}
   - 23: {fileID: 1454530380}
   - 102: {fileID: 1454530379}
+  - 114: {fileID: 1454530382}
   m_Layer: 0
   m_Name: Title
   m_TagString: Untagged
@@ -539,7 +540,7 @@ TextMesh:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1454530378}
-  m_Text: Dad Game
+  m_Text: DAD GAME
   m_OffsetZ: 0
   m_CharacterSize: 1
   m_LineSpacing: 1
@@ -549,7 +550,7 @@ TextMesh:
   m_FontSize: 125
   m_FontStyle: 3
   m_RichText: 1
-  m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  m_Font: {fileID: 12800000, guid: b60e27e2439502348a1dea00b77e4aa2, type: 3}
   m_Color:
     serializedVersion: 2
     rgba: 4294967295
@@ -563,7 +564,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_Materials:
-  - {fileID: 10100, guid: 0000000000000000e000000000000000, type: 0}
+  - {fileID: 2100000, guid: b60e27e2439502348a1dea00b77e4aa2, type: 3}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 1
@@ -589,6 +590,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 639373035}
   m_RootOrder: 1
+--- !u!114 &1454530382
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1454530378}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57ccc7a81b638c84f9c2399535626689, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  letterPause: .200000003
 --- !u!1 &1577139613
 GameObject:
   m_ObjectHideFlags: 0
