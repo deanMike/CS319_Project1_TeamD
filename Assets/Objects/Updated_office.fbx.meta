@@ -379,6 +379,58 @@ ModelImporter:
     100742: transform304
     100744: transform305
     100746: transform306
+    100748: AnatomyHandHumanMale:Hand
+    100750: cubicle
+    100752: desk
+    100754: gumball_machine1
+    100756: gumball_machine1_MeshPart0
+    100758: gumball_machine1_MeshPart1
+    100760: original_kittys_in_teapot
+    100762: polySurface147
+    100764: polySurface148
+    100766: polySurface149
+    100768: polySurface150
+    100770: polySurface151
+    100772: polySurface153
+    100774: polySurface154
+    100776: polySurface155
+    100778: polySurface156
+    100780: polySurface157
+    100782: polySurface158
+    100784: polySurface159
+    100786: polySurface160
+    100788: polySurface161
+    100790: polySurface162
+    100792: polySurface163
+    100794: polySurface164
+    100796: polySurface165
+    100798: polySurface166
+    100800: polySurface167
+    100802: polySurface168
+    100804: polySurface169
+    100806: transform307
+    100808: transform308
+    100810: transform309
+    100812: transform310
+    100814: transform311
+    100816: transform312
+    100818: transform313
+    100820: transform314
+    100822: transform315
+    100824: transform316
+    100826: transform317
+    100828: transform318
+    100830: transform319
+    100832: transform320
+    100834: transform321
+    100836: transform322
+    100838: transform323
+    100840: transform324
+    100842: transform325
+    100844: transform326
+    100846: transform327
+    100848: transform328
+    100850: transform329
     400000: apple_1
     400002: apple_2
     400004: apple_3
@@ -753,6 +805,58 @@ ModelImporter:
     400742: transform304
     400744: transform305
     400746: transform306
+    400748: AnatomyHandHumanMale:Hand
+    400750: cubicle
+    400752: desk
+    400754: gumball_machine1
+    400756: gumball_machine1_MeshPart0
+    400758: gumball_machine1_MeshPart1
+    400760: original_kittys_in_teapot
+    400762: polySurface147
+    400764: polySurface148
+    400766: polySurface149
+    400768: polySurface150
+    400770: polySurface151
+    400772: polySurface153
+    400774: polySurface154
+    400776: polySurface155
+    400778: polySurface156
+    400780: polySurface157
+    400782: polySurface158
+    400784: polySurface159
+    400786: polySurface160
+    400788: polySurface161
+    400790: polySurface162
+    400792: polySurface163
+    400794: polySurface164
+    400796: polySurface165
+    400798: polySurface166
+    400800: polySurface167
+    400802: polySurface168
+    400804: polySurface169
+    400806: transform307
+    400808: transform308
+    400810: transform309
+    400812: transform310
+    400814: transform311
+    400816: transform312
+    400818: transform313
+    400820: transform314
+    400822: transform315
+    400824: transform316
+    400826: transform317
+    400828: transform318
+    400830: transform319
+    400832: transform320
+    400834: transform321
+    400836: transform322
+    400838: transform323
+    400840: transform324
+    400842: transform325
+    400844: transform326
+    400846: transform327
+    400848: transform328
+    400850: transform329
     2300000: apple_1
     2300002: apple_2
     2300004: apple_3
@@ -810,6 +914,12 @@ ModelImporter:
     2300108: picture_frame3
     2300110: plant
     2300112: teddy_bear1
+    2300114: AnatomyHandHumanMale:Hand
+    2300116: cubicle
+    2300118: desk
+    2300120: gumball_machine1_MeshPart0
+    2300122: gumball_machine1_MeshPart1
+    2300124: original_kittys_in_teapot
     3300000: apple_1
     3300002: apple_2
     3300004: apple_3
@@ -867,6 +977,12 @@ ModelImporter:
     3300108: picture_frame3
     3300110: plant
     3300112: teddy_bear1
+    3300114: AnatomyHandHumanMale:Hand
+    3300116: cubicle
+    3300118: desk
+    3300120: gumball_machine1_MeshPart0
+    3300122: gumball_machine1_MeshPart1
+    3300124: original_kittys_in_teapot
     4300000: mug
     4300002: LowerChair
     4300004: upperChair
@@ -924,6 +1040,12 @@ ModelImporter:
     4300108: picture_frame2
     4300110: picture_frame3
     4300112: mug1
+    4300114: original_kittys_in_teapot
+    4300116: cubicle
+    4300118: desk
+    4300120: gumball_machine1_MeshPart0
+    4300122: gumball_machine1_MeshPart1
+    4300124: AnatomyHandHumanMale:Hand
     6400000: apple_1
     6400002: apple_2
     6400004: apple_3
@@ -980,11 +1102,17 @@ ModelImporter:
     6400106: picture_frame3
     6400108: plant
     6400110: teddy_bear1
+    6400112: AnatomyHandHumanMale:Hand
+    6400114: cubicle
+    6400116: desk
+    6400118: gumball_machine1_MeshPart0
+    6400120: gumball_machine1_MeshPart1
+    6400122: original_kittys_in_teapot
     9500000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0
-    materialSearch: 1
+    materialSearch: 2
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0

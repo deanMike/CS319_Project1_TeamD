@@ -13,6 +13,7 @@ public class AssignScripts : MonoBehaviour {
             {
                 obj.gameObject.AddComponent<HighlightScript>();
                 obj.gameObject.AddComponent<InspectObjectScript>();
+
             }
         }
         
