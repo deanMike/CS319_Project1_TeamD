@@ -251,7 +251,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &128414
 GameObject:
   m_ObjectHideFlags: 1
@@ -849,6 +849,7 @@ GameObject:
   - 4: {fileID: 493504}
   - 33: {fileID: 3375676}
   - 23: {fileID: 2308748}
+  - 64: {fileID: 6497534}
   m_Layer: 0
   m_Name: desk
   m_TagString: Untagged
@@ -1040,7 +1041,7 @@ GameObject:
   - 4: {fileID: 458894}
   - 33: {fileID: 3301156}
   - 23: {fileID: 2310096}
-  - 64: {fileID: 6475830}
+  - 64: {fileID: 6486944}
   m_Layer: 0
   m_Name: cubicle
   m_TagString: NonInteractive
@@ -1967,7 +1968,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 140292}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 40.2599983, y: -9.09765625, z: 58.2700005}
+  m_LocalPosition: {x: 43.6899986, y: -9.93099976, z: 55.5099983}
   m_LocalScale: {x: 3.37987971, y: 3.37988257, z: 3.37988257}
   m_Children:
   - {fileID: 409846}
@@ -3669,7 +3670,7 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 157412}
   m_Mesh: {fileID: 4300068, guid: 293921df6d550ea469ac9d75cc33dc92, type: 3}
---- !u!64 &6475830
+--- !u!64 &6486944
 MeshCollider:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -3693,6 +3694,18 @@ MeshCollider:
   serializedVersion: 2
   m_Convex: 0
   m_Mesh: {fileID: 4300000, guid: 293921df6d550ea469ac9d75cc33dc92, type: 3}
+--- !u!64 &6497534
+MeshCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 171570}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Convex: 0
+  m_Mesh: {fileID: 4300118, guid: 293921df6d550ea469ac9d75cc33dc92, type: 3}
 --- !u!65 &6500820
 BoxCollider:
   m_ObjectHideFlags: 1
