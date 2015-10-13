@@ -9,14 +9,19 @@ public class AssignScripts : MonoBehaviour {
     {        // Add highlighter to all interactable objects.
         foreach (Transform obj in gameObject.GetComponentsInChildren<Transform>())
         {
-            if (obj.gameObject.GetComponent<Collider>())
+            if (!obj.tag.Equals("NonInteractive"))
             {
-                obj.gameObject.AddComponent<HighlightScript>();
-                obj.gameObject.AddComponent<InspectObjectScript>();
+                Debug.Log(obj.name);
 
+                if (obj.gameObject.GetComponent<Collider>())
+                {
+                    obj.gameObject.AddComponent<HighlightScript>();
+                    obj.gameObject.AddComponent<InspectObjectScript>();
+                    Destroy(obj.GetComponent<Collider>());
+                    obj.gameObject.AddComponent<BoxCollider>();
+                }
             }
         }
-        
         foreach (GameObject obj in GameObject.FindGameObjectsWithTag("NonInteractive"))
         {
             Destroy(obj.GetComponent<HighlightScript>());
@@ -24,10 +29,11 @@ public class AssignScripts : MonoBehaviour {
         }
 
         // Add chairscript to chair.
-        Chair = GameObject.Find("upperChair");
+        Chair = GameObject.Find("Chair1");
         Chair.AddComponent<ChairSpin>();
         AudioSource sound = Chair.AddComponent<AudioSource>();
-        }
+    }
+
 
     // Update is called once per frame
     void Update () {
