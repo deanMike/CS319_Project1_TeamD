@@ -38,11 +38,11 @@ public class InspectObjectScript : MonoBehaviour {
             {
                 Destroy(gameObject.GetComponent<Rigidbody>());
             }
-            if (!upClose)
+            if (!upClose && !variables.interacting)
             {
-                Debug.Log("UP");
+                Debug.Log(variables.interacting);
                 InspectObject();
-            } else  
+            } else if (upClose)
             {
                 PutDownObject();
             }

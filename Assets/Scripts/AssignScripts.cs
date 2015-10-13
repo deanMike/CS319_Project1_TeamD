@@ -29,7 +29,7 @@ public class AssignScripts : MonoBehaviour {
         }
 
         // Add chairscript to chair.
-        Chair = GameObject.Find("Chair1");
+        Chair = GameObject.Find("Chair");
         Chair.AddComponent<ChairSpin>();
         AudioSource sound = Chair.AddComponent<AudioSource>();
     }
