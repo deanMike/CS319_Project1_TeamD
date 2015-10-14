@@ -19,6 +19,8 @@ public class AssignScripts : MonoBehaviour {
                     obj.gameObject.AddComponent<InspectObjectScript>();
                     Destroy(obj.GetComponent<Collider>());
                     obj.gameObject.AddComponent<BoxCollider>();
+
+                     
                 }
             }
         }
@@ -29,9 +31,7 @@ public class AssignScripts : MonoBehaviour {
         }
 
         // Add chairscript to chair.
-        Chair = GameObject.Find("Chair");
-        Chair.AddComponent<ChairSpin>();
-        AudioSource sound = Chair.AddComponent<AudioSource>();
+
     }
 
 

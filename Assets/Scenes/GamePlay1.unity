@@ -213,7 +213,7 @@ GameObject:
   - 64: {fileID: 19138009}
   m_Layer: 0
   m_Name: drawer1
-  m_TagString: Untagged
+  m_TagString: drawer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -581,7 +581,7 @@ GameObject:
   - 64: {fileID: 59837877}
   m_Layer: 0
   m_Name: drawer2
-  m_TagString: Untagged
+  m_TagString: drawer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1351,7 +1351,7 @@ GameObject:
   - 64: {fileID: 105564260}
   m_Layer: 0
   m_Name: drawer4
-  m_TagString: Untagged
+  m_TagString: drawer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1508,7 +1508,7 @@ GameObject:
   - 64: {fileID: 110269995}
   m_Layer: 0
   m_Name: Dads_mug
-  m_TagString: Untagged
+  m_TagString: mug
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1519,8 +1519,8 @@ Transform:
   m_PrefabParentObject: {fileID: 400890, guid: 293921df6d550ea469ac9d75cc33dc92, type: 3}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 110269993}
-  m_LocalRotation: {x: 3.25539027e-08, y: -.962673008, z: -1.14677817e-07, w: .270667017}
-  m_LocalPosition: {x: -1.62699997, y: .386700004, z: -.850000024}
+  m_LocalRotation: {x: 9.51932648e-08, y: -.930805326, z: -7.17565953e-08, w: -.365515351}
+  m_LocalPosition: {x: -1.62138319, y: .386699885, z: -1.05759776}
   m_LocalScale: {x: 1.87422395, y: 2.35846066, z: 1.87422335}
   m_Children:
   - {fileID: 562113868}
@@ -1770,7 +1770,7 @@ GameObject:
   - 64: {fileID: 135848549}
   m_Layer: 0
   m_Name: drawer7
-  m_TagString: Untagged
+  m_TagString: drawer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1871,7 +1871,7 @@ Transform:
   - {fileID: 1191027286}
   - {fileID: 647134939}
   - {fileID: 1672480059}
-  - {fileID: 1909578962}
+  - {fileID: 497873053}
   - {fileID: 539688816}
   - {fileID: 1572770247}
   - {fileID: 295049003}
@@ -1993,7 +1993,7 @@ GameObject:
   - 64: {fileID: 152837704}
   m_Layer: 0
   m_Name: drawer8
-  m_TagString: Untagged
+  m_TagString: drawer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2639,7 +2639,7 @@ GameObject:
   - 64: {fileID: 205437322}
   m_Layer: 0
   m_Name: Memo
-  m_TagString: Untagged
+  m_TagString: paper
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2716,7 +2716,7 @@ GameObject:
   - 64: {fileID: 211078175}
   m_Layer: 0
   m_Name: drawer5
-  m_TagString: Untagged
+  m_TagString: drawer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3208,7 +3208,7 @@ GameObject:
   - 64: {fileID: 253724689}
   m_Layer: 0
   m_Name: drawer3
-  m_TagString: Untagged
+  m_TagString: drawer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3284,7 +3284,7 @@ GameObject:
   - 64: {fileID: 256367779}
   m_Layer: 0
   m_Name: drawer12
-  m_TagString: Untagged
+  m_TagString: drawer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3709,7 +3709,7 @@ GameObject:
   - 64: {fileID: 280602165}
   m_Layer: 0
   m_Name: drawer3
-  m_TagString: Untagged
+  m_TagString: drawer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3977,7 +3977,7 @@ GameObject:
   - 64: {fileID: 294753605}
   m_Layer: 0
   m_Name: Auras_Two_women_picture_frame
-  m_TagString: Untagged
+  m_TagString: frame
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4477,7 +4477,7 @@ GameObject:
   - 64: {fileID: 333775388}
   m_Layer: 0
   m_Name: drawer2
-  m_TagString: Untagged
+  m_TagString: drawer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4662,7 +4662,7 @@ GameObject:
   - 64: {fileID: 342525520}
   m_Layer: 0
   m_Name: Auras_puppy_picture_frame
-  m_TagString: Untagged
+  m_TagString: frame
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5215,7 +5215,7 @@ GameObject:
   - 64: {fileID: 398936403}
   m_Layer: 0
   m_Name: drawer8
-  m_TagString: Untagged
+  m_TagString: drawer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5395,7 +5395,7 @@ GameObject:
   - 4: {fileID: 408854026}
   m_Layer: 0
   m_Name: drawer16
-  m_TagString: Untagged
+  m_TagString: drawer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5459,7 +5459,7 @@ GameObject:
   - 64: {fileID: 414353194}
   m_Layer: 0
   m_Name: Dads_family_picture_frame
-  m_TagString: Untagged
+  m_TagString: frame
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5704,7 +5704,7 @@ GameObject:
   - 64: {fileID: 437967501}
   m_Layer: 0
   m_Name: drawer6
-  m_TagString: Untagged
+  m_TagString: drawer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6183,7 +6183,7 @@ GameObject:
   - 64: {fileID: 466858326}
   m_Layer: 0
   m_Name: drawer6
-  m_TagString: Untagged
+  m_TagString: drawer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6296,7 +6296,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &475702140
 Transform:
   m_ObjectHideFlags: 0
@@ -6392,7 +6392,7 @@ GameObject:
   - 64: {fileID: 494535521}
   m_Layer: 0
   m_Name: drawer2
-  m_TagString: Untagged
+  m_TagString: drawer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6531,6 +6531,64 @@ MeshFilter:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 497083222}
   m_Mesh: {fileID: 4300118, guid: 293921df6d550ea469ac9d75cc33dc92, type: 3}
+--- !u!1001 &497873052
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 141485336}
+    m_Modifications:
+    - target: {fileID: 442948, guid: e9ea5248d651feb408d32f63aaf934e6, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -1.85450006
+      objectReference: {fileID: 0}
+    - target: {fileID: 442948, guid: e9ea5248d651feb408d32f63aaf934e6, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: .375800014
+      objectReference: {fileID: 0}
+    - target: {fileID: 442948, guid: e9ea5248d651feb408d32f63aaf934e6, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -1.35730004
+      objectReference: {fileID: 0}
+    - target: {fileID: 442948, guid: e9ea5248d651feb408d32f63aaf934e6, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -.707106829
+      objectReference: {fileID: 0}
+    - target: {fileID: 442948, guid: e9ea5248d651feb408d32f63aaf934e6, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -2.11979791e-11
+      objectReference: {fileID: 0}
+    - target: {fileID: 442948, guid: e9ea5248d651feb408d32f63aaf934e6, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -2.32830616e-10
+      objectReference: {fileID: 0}
+    - target: {fileID: 442948, guid: e9ea5248d651feb408d32f63aaf934e6, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: .707106829
+      objectReference: {fileID: 0}
+    - target: {fileID: 442948, guid: e9ea5248d651feb408d32f63aaf934e6, type: 2}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 165454, guid: e9ea5248d651feb408d32f63aaf934e6, type: 2}
+      propertyPath: m_Name
+      value: Kevs_smartphone
+      objectReference: {fileID: 0}
+    - target: {fileID: 442948, guid: e9ea5248d651feb408d32f63aaf934e6, type: 2}
+      propertyPath: m_LocalScale.x
+      value: .615883291
+      objectReference: {fileID: 0}
+    - target: {fileID: 165454, guid: e9ea5248d651feb408d32f63aaf934e6, type: 2}
+      propertyPath: m_TagString
+      value: phone
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: e9ea5248d651feb408d32f63aaf934e6, type: 2}
+  m_IsPrefabParent: 0
+--- !u!4 &497873053 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 442948, guid: e9ea5248d651feb408d32f63aaf934e6, type: 2}
+  m_PrefabInternal: {fileID: 497873052}
 --- !u!1 &501142891
 GameObject:
   m_ObjectHideFlags: 0
@@ -6785,7 +6843,7 @@ GameObject:
   - 64: {fileID: 511164448}
   m_Layer: 0
   m_Name: drawer10
-  m_TagString: Untagged
+  m_TagString: drawer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7560,8 +7618,8 @@ GameObject:
   - 23: {fileID: 600342958}
   - 64: {fileID: 600342957}
   m_Layer: 0
-  m_Name: polySurface79
-  m_TagString: Untagged
+  m_Name: phone
+  m_TagString: phone
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7827,7 +7885,7 @@ GameObject:
   - 64: {fileID: 615632746}
   m_Layer: 0
   m_Name: drawer6
-  m_TagString: Untagged
+  m_TagString: drawer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8022,7 +8080,7 @@ GameObject:
   - 64: {fileID: 628068624}
   m_Layer: 0
   m_Name: drawer10
-  m_TagString: Untagged
+  m_TagString: drawer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8085,6 +8143,22 @@ MeshFilter:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 628068622}
   m_Mesh: {fileID: 4300098, guid: 293921df6d550ea469ac9d75cc33dc92, type: 3}
+--- !u!1 &628435074 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 165454, guid: e9ea5248d651feb408d32f63aaf934e6, type: 2}
+  m_PrefabInternal: {fileID: 497873052}
+--- !u!65 &628435077
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 628435074}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: .0440521389, y: .0796073601, z: .00355743454}
+  m_Center: {x: -9.53674316e-07, y: 1.90734863e-06, z: 2.38418579e-07}
 --- !u!1 &631051518
 GameObject:
   m_ObjectHideFlags: 0
@@ -8126,7 +8200,7 @@ GameObject:
   - 64: {fileID: 632341900}
   m_Layer: 0
   m_Name: Auras_kittens_picture_frame
-  m_TagString: Untagged
+  m_TagString: frame
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8323,82 +8397,6 @@ MeshFilter:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 647134938}
   m_Mesh: {fileID: 4300136, guid: 293921df6d550ea469ac9d75cc33dc92, type: 3}
---- !u!1 &658528922
-GameObject:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 100854, guid: 293921df6d550ea469ac9d75cc33dc92, type: 3}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 4
-  m_Component:
-  - 4: {fileID: 658528923}
-  - 33: {fileID: 658528926}
-  - 23: {fileID: 658528925}
-  - 64: {fileID: 658528924}
-  m_Layer: 0
-  m_Name: AnatomyHandHumanMale:pCube2
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &658528923
-Transform:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 400854, guid: 293921df6d550ea469ac9d75cc33dc92, type: 3}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 658528922}
-  m_LocalRotation: {x: -.696872532, y: 0, z: 0, w: .717195034}
-  m_LocalPosition: {x: -2.06900024, y: -.231999874, z: -.619999528}
-  m_LocalScale: {x: 4.16993189, y: 5.76590443, z: .33218652}
-  m_Children: []
-  m_Father: {fileID: 1909578962}
-  m_RootOrder: 0
---- !u!64 &658528924
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 6400126, guid: 293921df6d550ea469ac9d75cc33dc92,
-    type: 3}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 658528922}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Convex: 0
-  m_Mesh: {fileID: 4300180, guid: 293921df6d550ea469ac9d75cc33dc92, type: 3}
---- !u!23 &658528925
-MeshRenderer:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 2300128, guid: 293921df6d550ea469ac9d75cc33dc92,
-    type: 3}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 658528922}
-  m_Enabled: 1
-  m_CastShadows: 1
-  m_ReceiveShadows: 1
-  m_Materials:
-  - {fileID: 2100000, guid: 9ae2b02a5a750d34980c49470e8656cb, type: 2}
-  m_SubsetIndices: 
-  m_StaticBatchRoot: {fileID: 0}
-  m_UseLightProbes: 1
-  m_ReflectionProbeUsage: 1
-  m_ProbeAnchor: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_PreserveUVs: 0
-  m_ImportantGI: 0
-  m_AutoUVMaxDistance: .5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingOrder: 0
---- !u!33 &658528926
-MeshFilter:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 3300128, guid: 293921df6d550ea469ac9d75cc33dc92,
-    type: 3}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 658528922}
-  m_Mesh: {fileID: 4300180, guid: 293921df6d550ea469ac9d75cc33dc92, type: 3}
 --- !u!1 &658892826
 GameObject:
   m_ObjectHideFlags: 0
@@ -8500,7 +8498,7 @@ GameObject:
   - 64: {fileID: 669708992}
   m_Layer: 0
   m_Name: drawer5
-  m_TagString: Untagged
+  m_TagString: drawer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8869,7 +8867,7 @@ GameObject:
   - 64: {fileID: 701896628}
   m_Layer: 0
   m_Name: printer
-  m_TagString: Untagged
+  m_TagString: printer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9115,7 +9113,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &725345508
 Transform:
   m_ObjectHideFlags: 0
@@ -9323,7 +9321,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &737878564
 Transform:
   m_ObjectHideFlags: 0
@@ -9395,7 +9393,7 @@ GameObject:
   - 64: {fileID: 750956428}
   m_Layer: 0
   m_Name: drawer1
-  m_TagString: Untagged
+  m_TagString: drawer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10224,7 +10222,7 @@ GameObject:
   - 64: {fileID: 803641935}
   m_Layer: 0
   m_Name: printer
-  m_TagString: Untagged
+  m_TagString: printer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10485,7 +10483,7 @@ GameObject:
   - 64: {fileID: 824691574}
   m_Layer: 0
   m_Name: pencil_cup
-  m_TagString: Untagged
+  m_TagString: mug
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10628,6 +10626,52 @@ Transform:
   m_Children: []
   m_Father: {fileID: 104116458}
   m_RootOrder: 0
+--- !u!1001 &828424909
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 486726, guid: 5953e6ece24d5a446a6b7191ca44f3ed, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -5.9000001
+      objectReference: {fileID: 0}
+    - target: {fileID: 486726, guid: 5953e6ece24d5a446a6b7191ca44f3ed, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -7.50842285
+      objectReference: {fileID: 0}
+    - target: {fileID: 486726, guid: 5953e6ece24d5a446a6b7191ca44f3ed, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 6.9000001
+      objectReference: {fileID: 0}
+    - target: {fileID: 486726, guid: 5953e6ece24d5a446a6b7191ca44f3ed, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 486726, guid: 5953e6ece24d5a446a6b7191ca44f3ed, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 486726, guid: 5953e6ece24d5a446a6b7191ca44f3ed, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 486726, guid: 5953e6ece24d5a446a6b7191ca44f3ed, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 486726, guid: 5953e6ece24d5a446a6b7191ca44f3ed, type: 2}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 124374, guid: 5953e6ece24d5a446a6b7191ca44f3ed, type: 2}
+      propertyPath: m_Name
+      value: AudioManager2
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 5953e6ece24d5a446a6b7191ca44f3ed, type: 2}
+  m_IsPrefabParent: 0
 --- !u!1 &830134559
 GameObject:
   m_ObjectHideFlags: 0
@@ -11142,7 +11186,7 @@ GameObject:
   - 64: {fileID: 890750807}
   m_Layer: 0
   m_Name: drawer4
-  m_TagString: Untagged
+  m_TagString: drawer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11958,7 +12002,7 @@ GameObject:
   - 64: {fileID: 959576433}
   m_Layer: 0
   m_Name: drawer11
-  m_TagString: Untagged
+  m_TagString: drawer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12034,7 +12078,7 @@ GameObject:
   - 64: {fileID: 959619168}
   m_Layer: 0
   m_Name: drawer7
-  m_TagString: Untagged
+  m_TagString: drawer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12299,7 +12343,7 @@ GameObject:
   - 64: {fileID: 971448336}
   m_Layer: 0
   m_Name: drawer11
-  m_TagString: Untagged
+  m_TagString: drawer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12533,7 +12577,7 @@ GameObject:
   - 64: {fileID: 986001425}
   m_Layer: 0
   m_Name: drawer7
-  m_TagString: Untagged
+  m_TagString: drawer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13299,7 +13343,7 @@ GameObject:
   - 4: {fileID: 1028165218}
   m_Layer: 0
   m_Name: drawer16
-  m_TagString: Untagged
+  m_TagString: drawer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13500,7 +13544,7 @@ GameObject:
   - 64: {fileID: 1059736123}
   m_Layer: 0
   m_Name: printer
-  m_TagString: Untagged
+  m_TagString: printer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13608,7 +13652,7 @@ GameObject:
   - 64: {fileID: 1065412392}
   m_Layer: 0
   m_Name: drawer8
-  m_TagString: Untagged
+  m_TagString: drawer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13684,7 +13728,7 @@ GameObject:
   - 64: {fileID: 1071833478}
   m_Layer: 0
   m_Name: drawer9
-  m_TagString: Untagged
+  m_TagString: drawer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13899,7 +13943,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1089393454
 Transform:
   m_ObjectHideFlags: 0
@@ -14296,7 +14340,7 @@ GameObject:
   - 64: {fileID: 1129194654}
   m_Layer: 0
   m_Name: drawer11
-  m_TagString: Untagged
+  m_TagString: drawer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14540,7 +14584,7 @@ GameObject:
   - 4: {fileID: 1156078964}
   m_Layer: 0
   m_Name: drawer16
-  m_TagString: Untagged
+  m_TagString: drawer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14735,7 +14779,7 @@ GameObject:
   - 64: {fileID: 1169831296}
   m_Layer: 0
   m_Name: drawer1
-  m_TagString: Untagged
+  m_TagString: drawer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14811,7 +14855,7 @@ GameObject:
   - 64: {fileID: 1173033590}
   m_Layer: 0
   m_Name: drawer3
-  m_TagString: Untagged
+  m_TagString: drawer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15074,7 +15118,7 @@ GameObject:
   - 64: {fileID: 1191027287}
   m_Layer: 0
   m_Name: Kevs_motivation_poster
-  m_TagString: Untagged
+  m_TagString: paper
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15859,7 +15903,7 @@ GameObject:
   - 64: {fileID: 1288610239}
   m_Layer: 0
   m_Name: drawer9
-  m_TagString: Untagged
+  m_TagString: drawer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16631,7 +16675,7 @@ GameObject:
   - 64: {fileID: 1333211887}
   m_Layer: 0
   m_Name: pencil_cup
-  m_TagString: Untagged
+  m_TagString: mug
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17252,7 +17296,7 @@ GameObject:
   - 64: {fileID: 1377177933}
   m_Layer: 0
   m_Name: drawer4
-  m_TagString: Untagged
+  m_TagString: drawer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18082,7 +18126,7 @@ GameObject:
   - 4: {fileID: 1460328751}
   m_Layer: 0
   m_Name: drawers
-  m_TagString: Untagged
+  m_TagString: drawer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18239,7 +18283,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1490512210
 Transform:
   m_ObjectHideFlags: 0
@@ -18417,8 +18461,8 @@ GameObject:
   - 23: {fileID: 1503844626}
   - 64: {fileID: 1503844625}
   m_Layer: 0
-  m_Name: polySurface79
-  m_TagString: Untagged
+  m_Name: phone
+  m_TagString: printer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18861,7 +18905,7 @@ GameObject:
   - 64: {fileID: 1565052654}
   m_Layer: 0
   m_Name: drawer5
-  m_TagString: Untagged
+  m_TagString: drawer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19018,7 +19062,7 @@ GameObject:
   - 64: {fileID: 1572770248}
   m_Layer: 0
   m_Name: Memo
-  m_TagString: Untagged
+  m_TagString: paper
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19260,8 +19304,8 @@ GameObject:
   - 23: {fileID: 1582879391}
   - 64: {fileID: 1582879390}
   m_Layer: 0
-  m_Name: polySurface79
-  m_TagString: Untagged
+  m_Name: phone
+  m_TagString: phone
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19596,7 +19640,7 @@ GameObject:
   - 64: {fileID: 1611932124}
   m_Layer: 0
   m_Name: drawer12
-  m_TagString: Untagged
+  m_TagString: drawer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19825,7 +19869,7 @@ GameObject:
   - 64: {fileID: 1624903809}
   m_Layer: 0
   m_Name: Hang_in_there_poster
-  m_TagString: Untagged
+  m_TagString: paper
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20930,7 +20974,7 @@ GameObject:
   - 64: {fileID: 1704920588}
   m_Layer: 0
   m_Name: drawer9
-  m_TagString: Untagged
+  m_TagString: drawer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21010,7 +21054,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!23 &1709291243
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -21934,7 +21978,7 @@ GameObject:
   - 64: {fileID: 1762980481}
   m_Layer: 0
   m_Name: Memo
-  m_TagString: Untagged
+  m_TagString: paper
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22242,7 +22286,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1796861359
 Transform:
   m_ObjectHideFlags: 0
@@ -22713,7 +22757,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1835097327
 Transform:
   m_ObjectHideFlags: 0
@@ -23508,34 +23552,6 @@ MeshFilter:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1901927195}
   m_Mesh: {fileID: 4300156, guid: 293921df6d550ea469ac9d75cc33dc92, type: 3}
---- !u!1 &1909578961
-GameObject:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 100894, guid: 293921df6d550ea469ac9d75cc33dc92, type: 3}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 4
-  m_Component:
-  - 4: {fileID: 1909578962}
-  m_Layer: 0
-  m_Name: Kevs_uncompleted_iphone
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1909578962
-Transform:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 400894, guid: 293921df6d550ea469ac9d75cc33dc92, type: 3}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1909578961}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: .186000004, y: .611000001, z: -.755981445}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children:
-  - {fileID: 658528923}
-  m_Father: {fileID: 141485336}
-  m_RootOrder: 12
 --- !u!1 &1910009456
 GameObject:
   m_ObjectHideFlags: 0
@@ -24071,7 +24087,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1952714236
 Transform:
   m_ObjectHideFlags: 0
@@ -24421,7 +24437,7 @@ GameObject:
   - 64: {fileID: 1970941314}
   m_Layer: 0
   m_Name: drawer10
-  m_TagString: Untagged
+  m_TagString: drawer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24497,7 +24513,7 @@ GameObject:
   - 64: {fileID: 1978051984}
   m_Layer: 0
   m_Name: pencil_cup
-  m_TagString: Untagged
+  m_TagString: mug
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25057,7 +25073,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &2026887071
 Transform:
   m_ObjectHideFlags: 0
@@ -25158,7 +25174,7 @@ GameObject:
   - 64: {fileID: 2031486173}
   m_Layer: 0
   m_Name: drawer12
-  m_TagString: Untagged
+  m_TagString: drawer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25475,7 +25491,7 @@ GameObject:
   - 64: {fileID: 2060544249}
   m_Layer: 0
   m_Name: envelope
-  m_TagString: Untagged
+  m_TagString: paper
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

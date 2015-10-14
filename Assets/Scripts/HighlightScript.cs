@@ -8,10 +8,17 @@ public class HighlightScript : MonoBehaviour
     private Color highlightColor = new Color(1f, 1f, 1f, 0.3f);
     private Material[] materialArray;
     private bool highlight = true;
+    private VariableControl variables;
+
+    void Awake()
+    {
+        if (GameObject.Find("VariableController").GetComponent<VariableControl>())
+        variables = GameObject.Find("VariableController").GetComponent<VariableControl>();
+    }
 
     void OnMouseEnter()
     {
-        if (highlight)
+        if (highlight && !variables.interacting)
         {
             materialArray = GetComponent<Renderer>().materials;
             

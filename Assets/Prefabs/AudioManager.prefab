@@ -133,7 +133,7 @@ MonoBehaviour:
   - {fileID: 8300000, guid: 2ddce574455ddf04fbcea2df2dc66ed7, type: 3}
   - {fileID: 8300000, guid: a734c032402181f438d5908a2cfbf30e, type: 3}
   - {fileID: 8300000, guid: 093147edd40faa94a8cb25d329d5afa8, type: 3}
-  - {fileID: 0}
+  - {fileID: 8300000, guid: b4506772c0da2904e8d3bbdc559b1ef5, type: 3}
   - {fileID: 0}
   - {fileID: 0}
   volumeArray:
@@ -189,6 +189,10 @@ Prefab:
       propertyPath: volumeArray.Array.data[4]
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: audioClipArray.Array.data[22]
+      value: 
+      objectReference: {fileID: 8300000, guid: b4506772c0da2904e8d3bbdc559b1ef5, type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 0}
   m_RootGameObject: {fileID: 124374}

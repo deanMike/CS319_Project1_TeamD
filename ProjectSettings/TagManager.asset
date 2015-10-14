@@ -6,6 +6,13 @@ TagManager:
   tags:
   - NonInteractive
   - Interactive
+  - chair
+  - frame
+  - drawer
+  - phone
+  - mug
+  - paper
+  - printer
   layers:
   - Default
   - TransparentFX
